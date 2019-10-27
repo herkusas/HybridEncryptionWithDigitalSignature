@@ -8,7 +8,7 @@ namespace HybridEncryptionWithDigitalSignature
     {
         static void Main()
         {
-            const string original = "Some text";
+            const string original = "Petras";
 
             var hybrid = new HybridEncryption();
 
