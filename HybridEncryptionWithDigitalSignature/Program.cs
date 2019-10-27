@@ -10,6 +10,8 @@ namespace HybridEncryptionWithDigitalSignature
         {
             const string original = "Petras";
 
+            //Testavimas
+
             var hybrid = new HybridEncryption();
 
             var rsaParams = new RsaWithRsaParameterKey();
